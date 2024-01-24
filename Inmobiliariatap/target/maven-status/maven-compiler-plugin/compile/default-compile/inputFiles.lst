@@ -1,0 +1,6 @@
+/home/javier/Escritorio/Programacion/Docker/API-REST-SB/Inmobiliariatap/src/main/java/mx/unach/inmobiliariatap/entity/Inmueble.java
+/home/javier/Escritorio/Programacion/Docker/API-REST-SB/Inmobiliariatap/src/main/java/mx/unach/inmobiliariatap/repository/InmuebleRepository.java
+/home/javier/Escritorio/Programacion/Docker/API-REST-SB/Inmobiliariatap/src/main/java/mx/unach/inmobiliariatap/InmobiliariatapApplication.java
+/home/javier/Escritorio/Programacion/Docker/API-REST-SB/Inmobiliariatap/src/main/java/mx/unach/inmobiliariatap/controller/InmuebleController.java
+/home/javier/Escritorio/Programacion/Docker/API-REST-SB/Inmobiliariatap/src/main/java/mx/unach/inmobiliariatap/service/impl/InmuebleServiceImpl.java
+/home/javier/Escritorio/Programacion/Docker/API-REST-SB/Inmobiliariatap/src/main/java/mx/unach/inmobiliariatap/service/InmuebleService.java

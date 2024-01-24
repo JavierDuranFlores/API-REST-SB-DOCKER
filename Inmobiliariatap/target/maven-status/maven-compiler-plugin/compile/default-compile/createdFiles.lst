@@ -1,0 +1,6 @@
+mx/unach/inmobiliariatap/repository/InmuebleRepository.class
+mx/unach/inmobiliariatap/controller/InmuebleController.class
+mx/unach/inmobiliariatap/InmobiliariatapApplication.class
+mx/unach/inmobiliariatap/service/InmuebleService.class
+mx/unach/inmobiliariatap/entity/Inmueble.class
+mx/unach/inmobiliariatap/service/impl/InmuebleServiceImpl.class
